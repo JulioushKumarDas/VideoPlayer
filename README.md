@@ -54,7 +54,7 @@ However, we understand that this tool wouldn't be useful if you couldn't customi
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-startdditional Resources
+You can learn more using given links:-
 
 - [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 - [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
